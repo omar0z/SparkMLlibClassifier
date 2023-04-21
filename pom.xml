@@ -50,7 +50,7 @@
     </dependencies>
 
     <properties>
-        <spark-version>2.4.5</spark-version>
+        <spark-version>3.4.0</spark-version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
     </properties>
